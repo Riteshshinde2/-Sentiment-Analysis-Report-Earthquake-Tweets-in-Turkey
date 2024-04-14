@@ -42,36 +42,36 @@ The word "syria" also appears, suggesting discussions about the broader impact o
 Negative sentiment word cloud reveals terms such as "death toll," "destroy," and "victim," indicating expressions of sorrow, concern, and devastation.
 The word "syria" is again present, suggesting discussions about the earthquake's impact on neighboring regions
 
-Sentiment Distribution Analysis:
+    Sentiment Distribution Analysis:
 
 The sentiment distribution plot illustrates the count of tweets categorized by sentiment (neutral, positive, negative).
 The majority of tweets exhibit a neutral sentiment, followed by positive and negative sentiments.
 This distribution indicates a balanced mix of reactions and opinions among Twitter users regarding the earthquake event in Turkey.
 
-Key Insights:
+    Key Insights:
 
 Neutral sentiment dominates the Twitter conversation, suggesting a substantial amount of factual reporting and informational tweets.
 Positive sentiment tweets demonstrate messages of solidarity, support, and prayers for those affected by the earthquake.
 Negative sentiment tweets express concerns about the death toll, destruction, and the overall impact of the earthquake on victims.
 
-Recommendations:
+    Recommendations:
 
 Encourage continued support and assistance for earthquake relief efforts, leveraging the positive sentiment expressed on Twitter.
 Provide accurate and timely information to address concerns raised in negative sentiment tweets, fostering transparency and trust among the public.
 Monitor social media channels for ongoing updates and sentiments to adapt response strategies accordingly.
 
-Conclusion:
+    Conclusion:
 
 In conclusion, the sentiment analysis of earthquake-related tweets in Turkey provides valuable insights into public perceptions and reactions. By understanding the sentiments expressed on Twitter, stakeholders can better address the needs of affected communities and effectively communicate relief efforts.
 
-Visualizations:
+    Visualizations:
 
 The word clouds and sentiment distribution plot accompanying this report visually represent the sentiment analysis results, offering a clear depiction of public sentiment towards the earthquake event in Turkey.
 
-Methodology:
+    Methodology:
 
 Sentiment analysis was conducted using Python programming language, utilizing natural language processing libraries such as NLTK and TextBlob.
 
-Limitations: 
+    Limitations: 
 
 The analysis is based on Twitter data, which may not represent the entire population's sentiment. Additionally, sentiment analysis algorithms may not capture nuanced emotions accurately.
